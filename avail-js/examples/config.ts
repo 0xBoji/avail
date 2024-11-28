@@ -1,6 +1,6 @@
 export default {
   seed: "bottom drive obey lake curtain smoke basket hold race lonely fit walk//Alice",
-  endpoint: "ws://127.0.0.1:9944",
+  endpoint: "ws://127.0.0.1:9944", // change for goldberg endpoint: "wss://goldberg.avail.tools/ws" or turing
   bridgeApi: "https://turing-bridge-api.fra.avail.so",
   ethProviderUrl: "https://ethereum-sepolia-rpc.publicnode.com",
   bridgeContractAddress: "0x967F7DdC4ec508462231849AE81eeaa68Ad01389",
